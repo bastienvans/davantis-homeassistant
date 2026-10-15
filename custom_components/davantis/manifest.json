@@ -1,0 +1,12 @@
+{
+  "domain": "davantis",
+  "name": "Davantis",
+  "codeowners": ["@bastienvans"],
+  "config_flow": true,
+  "documentation": "https://github.com/bastienvans/davantis-homeassistant",
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/bastienvans/davantis-homeassistant/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}

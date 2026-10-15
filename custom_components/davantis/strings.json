@@ -1,0 +1,24 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to your Davantis appliance",
+        "description": "Enter the local address of your Davantis appliance and your app login.",
+        "data": {
+          "host": "Host (IP address)",
+          "port": "Port",
+          "username": "Username",
+          "password": "Password",
+          "scan_interval": "Polling interval (seconds)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Could not reach the appliance at that address.",
+      "invalid_auth": "Invalid username or password."
+    },
+    "abort": {
+      "already_configured": "This appliance is already configured."
+    }
+  }
+}
