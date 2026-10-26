@@ -1,6 +1,7 @@
 {
   "domain": "davantis",
   "name": "Davantis",
+  "categories": ["security_safety.cameras", "security_safety.alarm_systems"],
   "codeowners": ["@bastienvans"],
   "config_flow": true,
   "documentation": "https://github.com/bastienvans/davantis-homeassistant",
